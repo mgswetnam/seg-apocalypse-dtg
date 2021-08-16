@@ -1,0 +1,26 @@
+/*!
+ * SEG theme base styles
+ */
+
+ html{
+ 	body{
+ 		h1,h2,h3,h4,h5,h6{}
+ 		h1{}
+ 		h2{}
+ 		h3{}
+ 		h4{}
+ 		h5{}
+ 		h6{}
+ 		p{}
+    .seg-style{
+      &.seg-hide-it{
+        display: none !important;
+      }
+    }
+    .seg-common{
+      &.seg-button{
+
+      }
+    }
+ 	}
+}
